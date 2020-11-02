@@ -1,0 +1,22 @@
+{
+  "name": "property-erasor",
+  "version": "1.0.0",
+  "description": "Erase The Property from any object provided with certain conditions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adhranjan/property-eraser.git"
+  },
+  "keywords": [
+    "delete-properties"
+  ],
+  "author": "Ranjan Adhikari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adhranjan/property-eraser/issues"
+  },
+  "homepage": "https://github.com/adhranjan/property-eraser#readme"
+}
